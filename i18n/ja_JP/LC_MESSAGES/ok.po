@@ -1,0 +1,455 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"Last-Translator: you@example.com\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "一键日常"
+msgstr "ワンクリックデイリー"
+
+msgid "从要推的图的最左边开始"
+msgstr "クリアするステージの左端から開始"
+
+msgid "体力本"
+msgstr "スタミナステージ"
+
+msgid "公共区"
+msgstr "パブリックエリア"
+
+msgid "兵棋推演"
+msgstr "ウォーゲームシミュレーション"
+
+msgid "军备解析"
+msgstr "軍備解析"
+
+msgid "冲锋"
+msgstr "SMG＆MG"
+
+msgid "决策构象"
+msgstr "デシジョン構成"
+
+msgid "刷钱本"
+msgstr "資金農場ステージ"
+
+msgid "大月卡"
+msgstr "プレミアム月間パス"
+
+msgid "尘烟"
+msgstr "ダストスモーク"
+
+msgid "手枪"
+msgstr "HG"
+
+msgid "推图"
+msgstr "ステージクリア"
+
+msgid "收菜"
+msgstr "リソース収集"
+
+msgid "活动情报补给"
+msgstr "イベント情報補給"
+
+msgid "活动自律"
+msgstr "イベント自動戦闘"
+
+msgid "深度搜索"
+msgstr "深度探索"
+
+msgid "狙击"
+msgstr "RF＆BLD"
+
+msgid "班组"
+msgstr "スクワッド"
+
+msgid "突击"
+msgstr "AR＆SG"
+
+msgid "竞技场"
+msgstr "アリーナ"
+
+msgid "自动刷体力"
+msgstr "スタミナ自動消費"
+
+msgid "购买免费礼包"
+msgstr "無料ギフトパック受取"
+
+msgid "邮件"
+msgstr "メール"
+
+msgid "领任务"
+msgstr "クエスト受取"
+
+msgid "Daily"
+msgstr "毎日"
+
+msgid "Weekly"
+msgstr "毎週"
+
+msgid "Monthly"
+msgstr "毎月"
+
+msgid "Once"
+msgstr "一回のみ"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "days"
+msgstr "日"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "Ready"
+msgstr "待機中"
+
+msgid "Running"
+msgstr "実行中"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Task Schedule"
+msgstr "タスクスケジュール"
+
+msgid "Task Name"
+msgstr "タスク名"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Trigger Type"
+msgstr "トリガータイプ"
+
+msgid "Next Run"
+msgstr "次回実行"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Modify"
+msgstr "変更"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Create Schedule Task"
+msgstr "スケジュールタスクの作成"
+
+msgid "Select Task"
+msgstr "タスクを選択"
+
+msgid "No tasks available"
+msgstr "タスクがありません"
+
+msgid "Hour"
+msgstr "時"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "24h"
+msgstr "24時間制"
+
+msgid "Timeout"
+msgstr "タイムアウト"
+
+msgid "hours (0 = unlimited)"
+msgstr "時間（0＝無制限）"
+
+msgid "Auto exit after task done (-e)"
+msgstr "タスク完了後に自動終了（-e）"
+
+msgid "Startup Options"
+msgstr "起動オプション"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Modify Schedule Task"
+msgstr "スケジュールタスクの変更"
+
+msgid "Task Index (-t)"
+msgstr "タスクインデックス（-t）"
+
+msgid "Start Time"
+msgstr "開始時刻"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "Create Task"
+msgstr "タスクを作成"
+
+msgid "Schedule Tasks"
+msgstr "スケジュールタスク"
+
+msgid "Task deleted successfully"
+msgstr "タスクを削除しました"
+
+msgid "Failed to delete task"
+msgstr "タスクの削除に失敗しました"
+
+msgid "Task enabled"
+msgstr "タスクを有効化しました"
+
+msgid "Task disabled"
+msgstr "タスクを無効化しました"
+
+msgid "Failed to toggle task"
+msgstr "タスクの切り替えに失敗しました"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Tasks refreshed"
+msgstr "タスクを更新しました"
+
+msgid "Refresh failed"
+msgstr "更新に失敗しました"
+
+msgid "Task not found in cache"
+msgstr "キャッシュにタスクが見つかりません"
+
+msgid "Failed to open modify dialog"
+msgstr "変更ダイアログを開けませんでした"
+
+msgid "Task modified successfully"
+msgstr "タスクを変更しました"
+
+msgid "Failed to modify task"
+msgstr "タスクの変更に失敗しました"
+
+msgid "Failed to modify task: cannot delete old task"
+msgstr "タスクの変更に失敗しました：旧タスクを削除できません"
+
+msgid "Task created successfully"
+msgstr "タスクを作成しました"
+
+msgid "Failed to create task"
+msgstr "タスクの作成に失敗しました"
+
+msgid "Delete Task"
+msgstr "タスクを削除"
+
+msgid "Are you sure you want to delete task"
+msgstr "次のタスクを削除してもよろしいですか"
+
+msgid "Custom Interval"
+msgstr "カスタム間隔"
+
+msgid "Days"
+msgstr "日"
+
+msgid "Hours"
+msgstr "時間"
+
+msgid "(0 = disabled)"
+msgstr "（0＝無効）"
+
+msgid "Failed to load tasks"
+msgstr "タスクの読み込みに失敗しました"
+
+# ===== DailyTask 設定項目 =====
+msgid "已确认启用游戏内全局自动功能"
+msgstr "ゲーム内全体自動機能の有効化を確認済み"
+
+msgid "当前物资关卡名称"
+msgstr "現在の物資ステージ名"
+
+msgid "用户名"
+msgstr "ユーザー名"
+
+msgid "密码"
+msgstr "パスワード"
+
+msgid "喝水"
+msgstr "飲料（A-W-D 秒数）"
+
+msgid "吃饭"
+msgstr "食事（S 秒数）"
+
+msgid "社区每日"
+msgstr "コミュニティデイリー"
+
+msgid "情报补给"
+msgstr "情報補給"
+
+msgid "闪耀星愿"
+msgstr "輝く星の願い"
+
+msgid "活动自律"
+msgstr "イベント自律"
+
+msgid "活动层"
+msgstr "アクティビティフロア"
+
+msgid "公共区/调度室"
+msgstr "パブリックエリア/調度室"
+
+msgid "自主循环"
+msgstr "自主ループ"
+
+msgid "商店心愿单购买"
+msgstr "ショップウィッシュリスト購入"
+
+msgid "探索领取"
+msgstr "探索報酬受取"
+
+msgid "开启自主循环后会跳过该项"
+msgstr "自主ループ有効時はスキップされます"
+
+msgid "需开启班组项"
+msgstr "班組項目を有効にする必要があります"
+
+# ===== WeeklyTask 設定項目 =====
+msgid "周常"
+msgstr "週常タスク"
+
+msgid "首领挑战"
+msgstr "ボス戦"
+
+msgid "峰值推定"
+msgstr "ピーク推定"
+
+msgid "扩编实练"
+msgstr "拡張実戦演習"
+
+msgid "执行频次"
+msgstr "実行頻度"
+
+msgid "每次启动该任务时"
+msgstr "タスク起動ごと"
+
+msgid "每周开始时"
+msgstr "週の開始時"
+
+msgid "周一和周四"
+msgstr "月曜と木曜"
+
+# ===== OCR関連ゲーム操作ラベル =====
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Combat Start"
+msgstr "作戦開始"
+
+msgid "End Action"
+msgstr "行動終了"
+
+msgid "Mission Completed"
+msgstr "任務完了"
+
+msgid "Mission Failed"
+msgstr "任務失敗"
+
+msgid "Battle Failed"
+msgstr "戦闘失敗"
+
+msgid "Victory"
+msgstr "勝利"
+
+msgid "Defeat"
+msgstr "敗北"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Auto"
+msgstr "自律"
+
+msgid "Claim All"
+msgstr "一括受取"
+
+msgid "All Claimed"
+msgstr "すべて受取済み"
+
+msgid "Claim"
+msgstr "受取"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Shop"
+msgstr "ショップ"
+
+msgid "Free"
+msgstr "無料"
+
+msgid "Start Combat"
+msgstr "作戦開始"
+
+msgid "Attack"
+msgstr "攻撃"
+
+msgid "Match"
+msgstr "マッチング"
+
+msgid "Essential"
+msgstr "必須任務"
+
+msgid "Resupply"
+msgstr "補給"
+
+msgid "Assault Battle"
+msgstr "強攻戦"
+
+msgid "Support"
+msgstr "助戦"
+
+msgid "Join Team"
+msgstr "入隊"
+
+msgid "Commissions"
+msgstr "委託"
+
+msgid "Voyage"
+msgstr "巡録"
+
+msgid "Time-Limited Events"
+msgstr "期間限定イベント"
+
+msgid "Event Campaign"
+msgstr "イベント戦役"
+
+msgid "Dispatch Room"
+msgstr "調度室"
+
+msgid "Dispatch Again"
+msgstr "再度派遣"
+
+msgid "Periodic Pack"
+msgstr "周期礼包"
+
+msgid "Standard Package"
+msgstr "常設礼包"
+
+msgid "Intel Supply"
+msgstr "情報補給"
+
+msgid "Refitting Room"
+msgstr "整備室"
+
+msgid "Public Area"
+msgstr "パブリックエリア"
